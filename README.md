@@ -10,10 +10,13 @@
 ## Стек
 
 - JavaScript
+- Node.js
+- npm
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+npm install
+npm link
 
 ```bash
 git clone https://github.com/eu2thanasia/backend-project-44.git
@@ -22,8 +25,13 @@ cd backend-project-44
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+brain-games
 
+brain-even
+
+Посмотреть запись asciinema:
+
+https://asciinema.org/a/y0NLs4oCBV29pRlI
 ---
 
 <details>
