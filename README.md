@@ -32,6 +32,12 @@ brain-even
 Посмотреть запись asciinema:
 
 https://asciinema.org/a/y0NLs4oCBV29pRlI
+
+brain-calc
+
+Посмотреть запись asciinema:
+
+https://asciinema.org/a/iDHvR9glVXtUZUsu
 ---
 
 <details>
