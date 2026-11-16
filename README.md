@@ -44,6 +44,12 @@ brain-gcd
 Посмотреть запись asciinema:
 
 https://asciinema.org/a/ZpEXiDUk3t8GS99P
+
+brain-progression
+
+Посмотреть запись asciinema:
+
+https://asciinema.org/a/fm3gyKMbpuSdMYES
 ---
 
 <details>
