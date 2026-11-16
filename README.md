@@ -38,6 +38,12 @@ brain-calc
 Посмотреть запись asciinema:
 
 https://asciinema.org/a/iDHvR9glVXtUZUsu
+
+brain-gcd
+
+Посмотреть запись asciinema:
+
+https://asciinema.org/a/ZpEXiDUk3t8GS99P
 ---
 
 <details>
