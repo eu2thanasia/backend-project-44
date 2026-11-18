@@ -50,6 +50,12 @@ brain-progression
 Посмотреть запись asciinema:
 
 https://asciinema.org/a/fm3gyKMbpuSdMYES
+
+brain-prime
+
+Посмотреть запись asciinema:
+
+https://asciinema.org/a/PcLaVw8KeJKDcY9U
 ---
 
 <details>
