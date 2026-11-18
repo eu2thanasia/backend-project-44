@@ -27,11 +27,15 @@ cd backend-project-44
 
 brain-games
 
+Запуск:
+
 brain-even
 
 Посмотреть запись asciinema:
 
 https://asciinema.org/a/y0NLs4oCBV29pRlI
+
+Запуск:
 
 brain-calc
 
@@ -39,17 +43,23 @@ brain-calc
 
 https://asciinema.org/a/iDHvR9glVXtUZUsu
 
+Запуск:
+
 brain-gcd
 
 Посмотреть запись asciinema:
 
 https://asciinema.org/a/ZpEXiDUk3t8GS99P
 
+Запуск:
+
 brain-progression
 
 Посмотреть запись asciinema:
 
 https://asciinema.org/a/fm3gyKMbpuSdMYES
+
+Запуск:
 
 brain-prime
 
