@@ -7,4 +7,6 @@ import even from "../src/games/even.js";
 
 const name = greeting();
 
+console.log(even.rules);
+
 playGame(even, name, 3, readlineSync);
