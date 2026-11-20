@@ -1,3 +1,6 @@
+const MIN_NUMBER = 1;
+const MAX_NUMBER = 100;
+
 const getRandomNumber = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 };
@@ -10,8 +13,8 @@ const getRandomOperator = () => {
 };
 
 const getQuestionAndAnswer = () => {
-  const firstNumber = getRandomNumber(1, 100);
-  const secondNumber = getRandomNumber(1, 100);
+  const firstNumber = getRandomNumber(MIN_NUMBER, MAX_NUMBER);
+  const secondNumber = getRandomNumber(MIN_NUMBER, MAX_NUMBER);
   const operator = getRandomOperator();
 
   const question = `${firstNumber} ${operator} ${secondNumber}`;
